@@ -1,0 +1,100 @@
+h1 {
+    color: #1C1678;
+    font-family: "Caveat", cursive;
+    text-size-adjust: 1100px;
+}
+h2 {
+    color: #1C1678;
+}
+h4 {
+    color: #1C1678;
+}
+.first-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+    background-color: #A3FFD6;
+    margin: 0px;
+    padding: 0px;
+    
+}
+img {
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+}
+.second-container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.third-container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.first-skill {
+    display: inline-block;
+    background-color: #A3FFD6;
+    margin-right: 50px;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 30px;
+}
+.second-skill {
+    display: inline-block;
+    background-color: #A3FFD6;
+    margin-right: 50px;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 30px;
+}
+.third-skill {
+    display: inline-block;
+    background-color: #A3FFD6;
+    margin-right: 50px;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 30px;
+}
+hr {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.four-container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+button {
+    size: 2000px;
+    background-color: #A3FFD6;
+    border-color: #A3FFD6;
+    border-radius: 50px;
+}
+footer {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+    gap: 20px;
+    background-color: #A3FFD6;
+    padding-bottom: 40px;
+}
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+}
